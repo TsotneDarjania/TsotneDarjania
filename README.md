@@ -2,7 +2,7 @@
 <h3 align="center">A Self-taught Front-End Developer from Georgia</h3>
 <img align="right"  alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
-- 🔭 I’m currently working on [Usupernova Games](usupernova.com)
+- 🔭 I’m currently working on [Usupernova Games](https://usupernova.com)
 
 - 🌱 I’m currently learning **React**
 
