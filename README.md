@@ -1,7 +1,7 @@
 # Hi there, I'm Tsotne Darjania 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=800&color=333333&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Browser-Based+Game+Creator;Data+Analysis+Explorer;Passionate+About+Code+And+Challenges" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=800&color=333333&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Browser-Based+Game+Creator;Data+Analysis+Explorer;" alt="Typing SVG" />
 </p>
 
 ---
