@@ -62,17 +62,13 @@ I like taking a thoughtful, balanced approach to development. It's not about usi
 
 ## 🔥 **Projects**:
 
-### 🎮 [**Game Project**](https://yourdemo.com)
+### 🎮 [**Football Manager**](https://football-manager-eight.vercel.app/)
 _A 2D browser-based game developed using **Phaser.js**. Focused on a smooth, enjoyable gameplay experience that is easy to pick up, but challenging to master._  
-**[Demo](https://yourdemo.com)** | **Technologies:** Phaser.js, HTML5
+**[Demo](https://football-manager-eight.vercel.app/)** | **Technologies:** Phaser.js, HTML5
 
-### 🌐 [**Web App Project**](https://yourapp.com)
+### 🌐 [**Portfolio Website**](https://tsotnedarjania.dev)
 _A full-stack web application built with **React** and **MongoDB**, delivering a fast, secure, and scalable platform._  
-**[Live Demo](https://yourapp.com)** | **Technologies:** React, Next.js, MongoDB
-
-### 📊 [**Data Visualization Tool**](https://yourtool.com)
-_A data tool that processes real-time data streams and visualizes them for easy decision-making._  
-**[Explore the Tool](https://yourtool.com)** | **Technologies:** D3.js, JavaScript
+**[Live Demo](https://tsotnedarjania.dev)** | **Technologies:** React, Next.js, MongoDB
 
 ---
 
@@ -107,6 +103,6 @@ _A data tool that processes real-time data streams and visualizes them for easy 
 
 ## 🌟 **Final Thoughts**:
 
-I don’t aim to be the loudest voice in the room, but I’m always willing to dive into a challenge. Whether it’s building a new game or web app or diving into data, I’m here to **learn**, **build**, and **grow**. Let’s make something great together!
+I believe in quietly focusing on the task at hand and making a meaningful impact through my work. Whether it's developing a new game, creating a web application, or analyzing data, I'm here to **support**, **collaborate**, and **deliver**. If you're looking for someone who is dedicated and eager to contribute, let's work together to create something exceptional.!
 
 
